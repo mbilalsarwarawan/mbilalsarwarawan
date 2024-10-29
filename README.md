@@ -12,6 +12,8 @@ As an AI/ML enthusiast, I'm passionate about using Python and advanced machine l
 <p align="left">
 <a href="https://www.leetcode.com/mbilalsarwarawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-awan-bilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:mbilalsarwarawan@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
+
 </p>
 
 ---
